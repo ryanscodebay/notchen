@@ -1,0 +1,6 @@
+certifi
+dotenv
+flask
+slack
+celery
+discord
